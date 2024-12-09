@@ -1,3 +1,9 @@
+### Now with Gachi sounds!
+
+Make sure to configure "Item filter alert volume" on Sound settings to your liking.
+
+Sounds were copied over from [PoE 1 3.24 Gachi loot filter](https://redd.it/1bqufmt)
+
 [![Follow me on Twitter](https://img.shields.io/badge/twitter-grey.svg?style=for-the-badge&logo=twitter)](https://twitter.com/NeverSinkDev) [![FilterBlade Discord](https://img.shields.io/badge/discord-grey.svg?style=for-the-badge&logo=discord)](https://discord.gg/mye6xhF) [![Watch FB Dev on Twitch](https://img.shields.io/badge/twitch-grey.svg?style=for-the-badge&logo=twitch)](https://twitch.tv/neversink) [![Support development on Patreon](https://img.shields.io/badge/patreon-grey.svg?style=for-the-badge&logo=patreon)](https://www.patreon.com/Neversink)
 
 ## **QUICK START:**
