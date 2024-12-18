@@ -46,7 +46,8 @@ SetFontSize 45
 SetTextColor 255 0 0 255
 SetBorderColor 255 0 0 255
 SetBackgroundColor 255 255 255 255
-PlayAlertSound 6 300
+#PlayAlertSound 6 300
+CustomAlertSound "Distilled.mp3" 300
 PlayEffect Red
 MinimapIcon 0 Red Star
 
@@ -87,7 +88,7 @@ BaseType "Uncut Spirit Gem"
 SetTextColor 20 240 240
 SetBorderColor 20 240 240
 #PlayAlertSound 2 300
-CustomAlertSound "UncutGem.wav" 300
+CustomAlertSound "CurrUnknown.wav" 300
 PlayEffect Cyan
 MinimapIcon 1 Cyan Triangle
 SetFontSize 40
@@ -99,7 +100,7 @@ BaseType "Uncut Support Gem"
 SetTextColor 20 240 240
 SetBorderColor 20 240 240
 #PlayAlertSound 2 300
-CustomAlertSound "UncutGem.wav" 300
+CustomAlertSound "Uniq.wav" 300
 PlayEffect Cyan
 MinimapIcon 1 Cyan Triangle
 SetFontSize 40
@@ -136,7 +137,7 @@ BaseType "Uncut Skill Gem"
 SetTextColor 20 240 240
 SetBorderColor 20 240 240
 #PlayAlertSound 2 300
-CustomAlertSound "UncutGem.wav" 300
+CustomAlertSound "UncutGemHigh.wav" 300
 PlayEffect Cyan
 MinimapIcon 1 Cyan Triangle
 SetFontSize 40
@@ -152,7 +153,8 @@ SetTextColor 0 240 190
 SetBorderColor 0 240 190
 SetFontSize 45
 MinimapIcon 0 Cyan Diamond
-PlayAlertSound 2 300
+#PlayAlertSound 2 300
+CustomAlertSound "Soul.wav" 300
 PlayEffect Cyan
 
 # Special Highlight - Breach Rings
@@ -164,7 +166,8 @@ SetBorderColor 0 240 190
 SetFontSize 40
 MinimapIcon 1 Cyan Diamond
 PlayEffect Cyan
-PlayAlertSound 2 300
+#PlayAlertSound 2 300
+CustomAlertSound "Breach.mp3" 300
 
 Show 
 Rarity <= Magic
@@ -181,7 +184,8 @@ SetTextColor 0 240 190
 SetBorderColor 0 240 190
 SetFontSize 40
 MinimapIcon 1 Cyan Diamond
-PlayAlertSound 2 300
+#PlayAlertSound 2 300
+CustomAlertSound "Relic.wav" 300
 PlayEffect Cyan
 
 # Special A Tier - Rare Jewels
@@ -193,7 +197,8 @@ SetBorderColor 0 240 190
 SetFontSize 40
 MinimapIcon 1 Cyan Diamond
 PlayEffect Cyan
-PlayAlertSound 2 300
+#PlayAlertSound 2 300
+CustomAlertSound "Jewel.wav" 300
 
 # Special B Tier - Any Runes and Charms
 Show 
