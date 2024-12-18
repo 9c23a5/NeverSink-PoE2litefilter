@@ -10,7 +10,7 @@ Sounds were copied over from [PoE 1 3.24 Gachi loot filter](https://redd.it/1bqu
 
 ## **QUICK START:**
 
-This is an "ItemFilter" - a script for the game Path of Exile 2 (not PoE1!). It highlights valuable items, hide pointless drops and enhances gameplay comfort and experience.
+This is an "ItemFilter" - a script for the game Path of Exile 2 (not PoE1!). It highlights valuable items, and enhances gameplay comfort and experience.
 This is _NOT_ a hack/mod. It written using the official POE filter domain language. This script (NeverSink's Filter) is shipped on the console versions of the game.
 
 This is a fairly light filter. This repository will be reused in the future to expand and replace this filter with a fully-fledged one.
@@ -19,7 +19,9 @@ This is a fairly light filter. This repository will be reused in the future to e
 
 Feature highlights
 
-- Does NOT hide items. Only highlights valuable drops!
+- Does NOT hide items during campaign. Only highlights valuable drops!
+- In the endgame hides absolutely outleveled campaign gear (anything with sockets, quality etc still gets shown of course)
+- Automatically and progressively hides more gear and reduces highlight on less important items as you progress through the waystone tiers
 - Highlight for all important PoE2 currencies with minimal tiering
 - Minimal sounds, beams and fontsizes for highlight desirable items
 - Special currency highlight
